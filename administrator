@@ -1,0 +1,18 @@
+<DOCTYPE html>
+    <html> 
+        <head> 
+            <title>Float Property</title>
+            <style>
+            img#flowerRight{
+                Float: right;
+            } 
+            img#flowerLeft{
+                float: left;
+            }
+            </style>
+        </head>
+        <body>
+            <h2>Float Right and Left</h2>
+            <p>In this example the image will float to right and left in the paragraph and the text in the paragraph will wrap around the image.</p>
+            <img id="flowerRight"src=flower.jpg
+            <
