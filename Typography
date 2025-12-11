@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <Head>
+        <title>Typography</title>
+        <style>
+            h1 {
+                color: green;
+                font-family: cursive;
+                       font-size: 50px;   
+
+            }
+            .text1 {
+                color: red;
+                font-size: 30px;
+            }
+            .p1 {
+                color: blueviolet;
+                font-family: 'courier new', courier, monospace;
+            }
+            </style>
+    </Head>
+    <body>
+        <h1>Typography</h1>
+        <p class="text1">Welcome to codingal</p>
+        <p class="p1">Welcome to codingal</p>
+    </body>
+</html>
